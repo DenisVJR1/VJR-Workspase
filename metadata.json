@@ -1,0 +1,6 @@
+{
+  "name": "VJR Workspace",
+  "description": "Вбудований календар, менеджер завдань та файловий браузер в стилі Material You.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
